@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#data-container {
+    max-width: 600px;
+    margin: 30px auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+.item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+#loader {
+    text-align: center;
+    padding: 20px;
+    color: #888;
+    display: none;
+}
